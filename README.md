@@ -1,26 +1,29 @@
-![Logo Banner](https://github.com/CezaryPokoca/CezaryPokoca/main/Logo_main_page.png)
+<img width="2000" height="600" alt="Logo_main_page" src="https://github.com/user-attachments/assets/4ad60514-27a2-4ff3-81e8-2ff468576539" />
 
-Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+### 🖐 About Me 🖐
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+Hi, my name is Cezary. For about a year now, I have been training and gaining knowledge as a Data Analyst. 
+I successfully completed a Data Analytics course at the IT school - Coders Lab. In addition, I am self-studying 
+various topics related to analytics and artificial intelligence. I want to develop my skills, which is why I am 
+looking for my first job as a Data Analyst.
 
-### 📚 Projects
+### 💪 My Skills 🤸‍♀️
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+- Basics of mathematical statistics
+- MS Excel, Power Query
+- MySQL
+- PostgreSQL
+- Python - (Pandas, NumPy, API, WebScraping, Dash, Seaborn, Plotly)
+- Basics of MapBox
+- Tableau
 
-### 🛠️ Tools
+### 🤘 Portfolio 👌
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+[My Projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
-### 👋🏻 Connect with Me
+###  👀 Links
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- [Linkedin](https://www.linkedin.com/in/cezarypokoca/)
 
 <!--
 **CezaryPokoca/CezaryPokoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
