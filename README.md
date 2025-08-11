@@ -19,9 +19,9 @@ looking for my first job as a Data Analyst.
 
 ### 🤘 Portfolio 👌
 
-[My Projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+- [My Projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
 
-###  👀 Links
+###  👀 Links 👀
 
 - [Linkedin](https://www.linkedin.com/in/cezarypokoca/)
 
