@@ -19,7 +19,7 @@ looking for my first job as a Data Analyst.
 
 ### 👀 Portfolio 👀
 
-- [My Projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
+- [MS Excel & Power Query](https://github.com/CezaryPokoca/Project_1_MS_Excel/README.md)
 
 <!-- ###   👀 Links 👀
 
