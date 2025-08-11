@@ -1,4 +1,4 @@
-![Logo Banner](https://github.com/CezaryPokoca/CezaryPokoca/edit/main/Logo_main_page.png)
+![Logo Banner](https://github.com/CezaryPokoca/CezaryPokoca/main/Logo_main_page.png)
 
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
