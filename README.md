@@ -1,4 +1,4 @@
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Logo Banner](https://github.com/CezaryPokoca/CezaryPokoca/edit/main/Logo_main_page.png)
 
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
