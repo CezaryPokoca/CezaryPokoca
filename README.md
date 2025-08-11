@@ -1,13 +1,13 @@
 <img width="2000" height="600" alt="Logo_main_page" src="https://github.com/user-attachments/assets/4ad60514-27a2-4ff3-81e8-2ff468576539" />
 
-### 🖐 About Me 🖐
+### 🖐 ABOUT ME 🖐
 
 Hi, my name is Cezary. For about a year now, I have been training and gaining knowledge as a Data Analyst. 
 I successfully completed a Data Analytics course at the IT school - Coders Lab. In addition, I am self-studying 
 various topics related to analytics and artificial intelligence. I want to develop my skills, which is why I am 
 looking for my first job as a Data Analyst.
 
-### 💪 My Skills 🤸‍♀️
+### 💪 MY SKILLS 🤸‍♀️
 
 - Basics of mathematical statistics
 - MS Excel, Power Query
@@ -17,7 +17,7 @@ looking for my first job as a Data Analyst.
 - Basics of MapBox
 - Tableau
 
-### 👀 Portfolio 👀
+### 👀 PORTFOLIO 👀
 
 - [MS Excel & Power Query](https://github.com/CezaryPokoca/Project_1_MS_Excel/blob/main/README.md)
 
