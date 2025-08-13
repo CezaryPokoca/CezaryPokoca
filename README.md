@@ -24,6 +24,8 @@ looking for my first job as a Data Analyst.
 - [Tableau - Data Analysis & Visualization](https://github.com/CezaryPokoca/Project_3_Tableau_Data_Visualization/blob/main/README.md)
 - [Python - WebScraping](https://github.com/CezaryPokoca/Project_4_WebScraping_Selenium/blob/main/README.md)
 
+#### Further projects will be published soon...
+
 <!-- ###   👀 Links 👀
 
 - [Linkedin](https://www.linkedin.com/in/cezarypokoca/)
