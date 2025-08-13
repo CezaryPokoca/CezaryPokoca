@@ -22,6 +22,7 @@ looking for my first job as a Data Analyst.
 - [MS Excel & Power Query](https://github.com/CezaryPokoca/Project_1_MS_Excel/blob/main/README.md)
 - [Python - Data Analysis & Visualization](https://github.com/CezaryPokoca/Project_2_Python_Data_Visualization/blob/main/README.md)
 - [Tableau - Data Analysis & Visualization](https://github.com/CezaryPokoca/Project_3_Tableau_Data_Visualization/blob/main/README.md)
+- [Python - WebScraping](https://github.com/CezaryPokoca/Project_4_WebScraping_Selenium/blob/main/README.md)
 
 <!-- ###   👀 Links 👀
 
